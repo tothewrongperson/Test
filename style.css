@@ -1,0 +1,13 @@
+.profile {
+  width: 400px;
+  height: 350px;
+}
+
+.pic{ width: 350px;
+  height: 400px;
+}
+.profile{
+display: block;
+margin-left: auto;
+margin-right: auto;
+{
